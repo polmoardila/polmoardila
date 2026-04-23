@@ -21,7 +21,7 @@
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,cs,postgres,docker,supabase,mongo&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,postgres,docker,supabase,mongo&theme=dark" />
   </a>
     <h3>Tools</h3>
      <a href="https://skillicons.dev">
