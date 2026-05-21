@@ -28,14 +28,3 @@
     <img src="https://skillicons.dev/icons?i=linux,git,dotnet,windows,rider,vscode&theme=dark" />
   </a>
   </div>
-<br>
-<br>
-<br>
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=polmoardila&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polmoardila&layout=compact&theme=gotham&langs_count=5"/>
-</div>
-
-<img src="https://github.com/polmoardila/polmoardila/raw/main/assets/banner-footer.gif">
-
-<img src="https://github.com/polmoardila/polmoardila/raw/main/assets/line-neon.gif" width="100%">
